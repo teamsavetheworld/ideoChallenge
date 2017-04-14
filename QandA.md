@@ -35,6 +35,8 @@ RootFinder will have applications for a wide variety of challenges that have a t
 ## What are you doing that is different from similar initiatives? What unique advantages do you have to implement this idea? Think about how another organization is addressing the idea - how they are doing it and why do you believe yours will be more successful?
 
 One of the major impacts of the internet has been the creation of communities which bridge geographical and social barriers. These communities have originated around common interests or a common purpose. RootFinder will facilitate the development of a community that will help solve social and economic challenges. Instead of addressing a specific problem we are hoping to address hundreds of different issues by connecting thousands of people with the right skills and abilities who share common goals. To our knowledge no other holistic problem solving initiative like this currently exists. 
+
+Unlike other initiatives, we are specifically aimed at solving problems that are specifically technical. While we recognise that many issues are political or social, creating a platform to deal with technical issues means we can create actionable solutions. This will allow other activists who focus on political change to present use those proposed solutions when lobbying from change. 
  
 # Idea Proposal Stage
 ## We are excited to learn about ideas at diverse stages of development. At what stage would you currently classify your idea as?
