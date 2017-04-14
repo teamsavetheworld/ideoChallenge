@@ -26,21 +26,16 @@ The platform will have applications for a wide variety of challenges that have a
 
 Four main targets
 
-Existing groups/ programs: These groups are often highly knowledgeable about their specific areas but often operate in information silos. By targeting these groups and encouraging them to share their information we hope to break down many of the traditional barriers that exist in both industry and the NGO/non-profit world. 
+Stakeholders: We are specifically aiming the platform at those who are affected by the problems in the world and who want to collaborate with those who wish to help. By working with NGOs and government organisations we can focus the community towards developing the solutions that are required.
 
-Stakeholders: We are specifically aiming the platform at those who are affected by the problems in the world and who want to collaborate with those who wish to help. This would ensure that the platform would incorporate those who are best placed to explain what solutions are required. 
+Motivated individuals: It is often difficult to find employment that both makes a social impact while remaining intellectually stimulating. These people are often recruited directly fields such as professional services, Finance, oil & gas etc. We hope to provide to contribute to a social cause from inside their companies, this will also help us expand our influence into these organisations.
 
-Motivated individuals who are inspired to create social good in the world: We have identified that it is often difficult to find employment that both makes a social impact while remaining intellectually stimulating. These people are often recruited directly into fields that are not commonly associated with social change – for example professional services, Finance, oil & gas etc. We hope to provide them with an outlet for their desire to change the world while retaining employment in other fields. Engaging with people who are working inside of other companies will help us expand our influence into these organisations.
-
-Fundraisers: Donors are often far removed from the projects they fund. While philanthropists, governments or large benefactors can impose rigorous funding criteria, they are somewhat reliant on the organisations they fund. By incorporating funders within the system, they would be able observe the process of finding solutions, and fund them appropriately. This would also allow platform users to directly respond to donors concerns and adapt the solution to deal with either expanding or contracting financial aid. This system would also deal with many of the transparency requirements many large donors now require. 
-
+Fundraisers: Donors are often far removed from the projects they fund. While philanthropists, governments or large benefactors can impose rigorous funding criteria, they are somewhat reliant on the organisations they fund. By incorporating funders within the system, they would be able observe the process of finding solutions, and fund them appropriately. This would also allow platform users to directly respond to donors concerns and adapt the solution to deal with either expanding or contracting financial aid. 
  
 # How is your idea unique?
 ## What are you doing that is different from similar initiatives? What unique advantages do you have to implement this idea? Think about how another organization is addressing the idea - how they are doing it and why do you believe yours will be more successful?
 
 One of the major impacts of the internet has been the creation of communities which bridge geographical and social barriers. These communities have originated around common interests or a common purpose. The platform we are building will facilitate the creation of a community that will help solve social and economic challenges. 
-
-Similar platforms, such as github and kaggle, have been developed to enable collaborative problem solving in specific domains such as software development or data science. We see this, not as a threat, but as a helpful first step towards our goal of linking together people of varying disciplines. 
 
 Our focus is on building the infrastructure for motivated individuals to contribute through their technical ability to social challenges  that can be address using science and engineering. Instead of addressing a specific problem we are hoping to address hundreds of different issues by connecting thousands of people with the right skills and abilities who share common goals.
 
