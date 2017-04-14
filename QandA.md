@@ -30,7 +30,7 @@ Stakeholders: We are specifically aiming the platform at those who are affected 
 
 Motivated individuals: It is often difficult to find employment that both makes a social impact while remaining intellectually stimulating. These people are often recruited directly fields such as engineering, finance and digital services. These people have existing knowledge and competencies in their respective fields. We hope to provide an outlet for them to contribute to a social cause from inside their companies, this will also help us expand our influence into these organisations.
 
-Fundraisers: Donors are often far removed from the projects they fund. While philanthropists, governments or large benefactors can impose rigorous funding criteria, they are somewhat reliant on the organisations they fund. By incorporating funders within the system, they would be able observe the process of finding solutions, and fund them appropriately. This would also allow platform users to directly respond to donors concerns and adapt the solution to deal with either expanding or contracting financial aid. 
+Fundraisers: By incorporating funders within the system, they would be able observe the process of finding solutions, and fund them appropriately. 
  
 # How is your idea unique?
 ## What are you doing that is different from similar initiatives? What unique advantages do you have to implement this idea? Think about how another organization is addressing the idea - how they are doing it and why do you believe yours will be more successful?
