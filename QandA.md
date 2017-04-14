@@ -12,11 +12,11 @@ We will adapt the technology that facilitates the development of many open sourc
  
 We will use the underlying data structures from Git and develop a user interface that allows collaboration between those with technical and non-technical backgrounds, using collaboration management ideas lifted from Wikipedia and other wiki platforms. We will use interactive notebooks such as Jupyter to facilitate the production of reproducible analysis and simulations.
 
-The platform is not a traditional solution, but instead a way of dealing with one of the largest problems in social change – communication and organisation. Dealing with the world’s largest issues requires a variety of things, many of which already exist. There exists a variety of funding solutions, ranging from government aid to private donors. There is also a large number of people who want to help, as evidence by the huge pool of applicants for most NGO and charity jobs. What is lacking is a way of co-ordinating all of these existing aspects of social change.
+RootFinder is not a traditional solution, but instead a way of dealing with one of the largest problems in social change – communication and organisation. Dealing with the world’s largest issues requires a variety of things, many of which already exist. There exists a variety of funding solutions, ranging from government aid to private donors. There is also a large number of people who want to help, as evidence by the huge pool of applicants for most NGO and charity jobs. What is lacking is a way of co-ordinating all of these existing aspects of social change.
 
-We want the platform to be able to bring all these pre-existing elements together. Historically, effective communication and collaboration allow for better solutions. By building the tool that will bring all of the elements together and ensuring they synthesise, we can facilitate the solving of social problems that currently remain out of our grasp.
+RootFinder will bring all these pre-existing elements together. Historically, effective communication and collaboration allow for better solutions. By building the tool that will bring all of the elements together and ensuring they synthesise, we can facilitate the solving of social problems that currently remain out of our grasp.
 
-The platform will have applications for a wide variety of challenges that have a technical component that requires data analysis, simulation or other specialised problem-solving techniques. We will not limit the use of the platform to a specific cause, but instead, by working with NGOs and other organisations, focus the effort of the platform’s community to solve problems in areas that they can have maximum impact in. We have identified a number of major global challenges that could be the initial area of focus these include: 
+RootFinder will have applications for a wide variety of challenges that have a technical component that requires data analysis, simulation or other specialised problem-solving techniques. We will not limit the use of the platform to a specific cause, but instead, by working with NGOs and other organisations, focus the effort of the platform’s community to solve problems in areas that they can have maximum impact in. We have identified a number of major global challenges that could be the initial area of focus these include: 
  - Water Availability in countries that are likely to experience shortages in the next 20 years,  
  - Agriculture Resilience as global temperatures increase
  - Energy Generation in post fossil fuel world
@@ -24,22 +24,20 @@ The platform will have applications for a wide variety of challenges that have a
 # Who Benefits?
 ## Who are your beneficiaries? How will they benefit from your idea?
 
-Four main targets
+We are targeting three main groups:
 
 Stakeholders: We are specifically aiming the platform at those who are affected by the problems in the world and who want to collaborate with those who wish to help. By working with NGOs and government organisations we can focus the community towards developing the solutions that are required.
 
-Motivated individuals: It is often difficult to find employment that both makes a social impact while remaining intellectually stimulating. These people are often recruited directly fields such as professional services, Finance, oil & gas etc. We hope to provide to contribute to a social cause from inside their companies, this will also help us expand our influence into these organisations.
+Motivated individuals: It is often difficult to find employment that both makes a social impact while remaining intellectually stimulating. These people are often recruited directly fields such as engineering, finance and digital services. These people have existing knowledge and competencies in their respective fields. We hope to provide an outlet for them to contribute to a social cause from inside their companies, this will also help us expand our influence into these organisations.
 
 Fundraisers: Donors are often far removed from the projects they fund. While philanthropists, governments or large benefactors can impose rigorous funding criteria, they are somewhat reliant on the organisations they fund. By incorporating funders within the system, they would be able observe the process of finding solutions, and fund them appropriately. This would also allow platform users to directly respond to donors concerns and adapt the solution to deal with either expanding or contracting financial aid. 
  
 # How is your idea unique?
 ## What are you doing that is different from similar initiatives? What unique advantages do you have to implement this idea? Think about how another organization is addressing the idea - how they are doing it and why do you believe yours will be more successful?
 
-One of the major impacts of the internet has been the creation of communities which bridge geographical and social barriers. These communities have originated around common interests or a common purpose. The platform we are building will facilitate the creation of a community that will help solve social and economic challenges. 
+One of the major impacts of the internet has been the creation of communities which bridge geographical and social barriers. These communities have originated around common interests or a common purpose. RootFinder will facilitate the development of a community that will help solve social and economic challenges. Instead of addressing a specific problem we are hoping to address hundreds of different issues by connecting thousands of people with the right skills and abilities who share common goals.
 
-Our focus is on building the infrastructure for motivated individuals to contribute through their technical ability to social challenges  that can be address using science and engineering. Instead of addressing a specific problem we are hoping to address hundreds of different issues by connecting thousands of people with the right skills and abilities who share common goals.
-
-One key difference between us and other similar endeavours is that we will engage people who are already working in areas such as engineering, IT and finance. These people have existing knowledge and competencies in their respective fields and can use them to help solve the problems we hope to tackle. The model of engaging with companies and their employees has been incredibly successful in helping to change corporate culture and perception, for example in LGBTQ rights and female empowerment. With our platform we hope to do a similar thing, but instead provide a unique tool to allow people to contribute to some of the world’s leading problems. 
+We will engage people who are already working in areas such as engineering, digital services and finance. The model of engaging with companies and their employees has been incredibly successful in helping to change corporate culture and perception, for example in LGBTQ rights and female empowerment. Similarly we hope to engage employees and the companies they work for in solving some of world’s leading problems. 
  
 # Idea Proposal Stage
 ## We are excited to learn about ideas at diverse stages of development. At what stage would you currently classify your idea as?
@@ -59,7 +57,7 @@ In our group currently there is;
  - Consultant at a leading engineering consultancy firm with a background in applied mathematics;
  - A data scientist at a technology startup;
 
-We are pursuing this project alongside our professional commitments, but hope to be able to use this funding as a way of developing our idea. In the spirit of rootfinder, we plan to continue to work on the project part time while bringing in new partners to deal with problems as they occur. In doing so, we believe this will harmonize with the stated ideas of our platform by ensuring that it is built with the part-time professional in mind. 
+We are pursuing this project alongside our professional commitments, but hope to be able to use this funding as a way of developing our idea. In the spirit of rootfinder, we plan to continue to work on the project part time while bringing in new partners to deal with problems as they occur. In doing so, we believe this will harmonize with the stated ideas of RootFinder by ensuring that it is built with the part-time professional in mind. 
 
 # Expertise in sector
 ## Tell us about your experience. For how long has your organization been working in your sector? 
