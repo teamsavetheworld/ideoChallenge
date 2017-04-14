@@ -60,9 +60,9 @@ B & M limited was set up as a way to gather together like-minded people who want
 
 In our group currently there is;
 
-A project manager at a world renowned IT services corporation who has also worked in engineering;
-Consultant at a leading engineering consultancy firm with a background in applied mathematics;
-A data scientist at a technology startup;
+ - A project manager at a world renowned IT services corporation who has also worked in engineering;
+ - Consultant at a leading engineering consultancy firm with a background in applied mathematics;
+ - A data scientist at a technology startup;
 
 We are pursuing this project alongside our professional commitments, but hope to be able to use this funding as a way of developing our idea. In the spirit of rootfinder, we plan to continue to work on the project part time while bringing in new partners to deal with problems as they occur. In doing so, we believe this will harmonize with the stated ideas of our platform by ensuring that it is built with the part-time professional in mind. 
 
