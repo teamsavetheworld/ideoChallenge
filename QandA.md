@@ -47,12 +47,12 @@ Our focus is on building the infrastructure for motivated individuals to contrib
 One key difference between us and other similar endeavours is that we will engage people who are already working in areas such as engineering, IT and finance. These people have existing knowledge and competencies in their respective fields and can use them to help solve the problems we hope to tackle. The model of engaging with companies and their employees has been incredibly successful in helping to change corporate culture and perception, for example in LGBTQ rights and female empowerment. With our platform we hope to do a similar thing, but instead provide a unique tool to allow people to contribute to some of the world’s leading problems. 
  
 # Idea Proposal Stage
-##We are excited to learn about ideas at diverse stages of development. At what stage would you currently classify your idea as?
+## We are excited to learn about ideas at diverse stages of development. At what stage would you currently classify your idea as?
 
 Research & Early Testing: I am exploring my idea, gathering the inspiration and information I need to test it with real users.
 
 # Tell us more about you
-##Are you an individual? Organization? Business? Looking for a collaborator?
+## Are you an individual? Organization? Business? Looking for a collaborator?
 
 ## We'd love to know about who you're working with and where you are based! Who will be able to devote time to make this idea a reality? If this is a partnership, what role will each partner play?
  
